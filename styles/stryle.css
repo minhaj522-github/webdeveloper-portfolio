@@ -79,6 +79,9 @@ nav ul{
 .banner-content{
     max-width: 580px;
 }
+.banner-description{
+    font-size: 18px;
+}
 /* section title  */
 
 .section-title{
